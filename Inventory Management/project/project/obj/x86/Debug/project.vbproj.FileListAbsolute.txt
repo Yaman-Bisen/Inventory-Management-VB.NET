@@ -1,0 +1,106 @@
+E:\yaman bisen vb.net\project\project\bin\Debug\project.exe
+E:\yaman bisen vb.net\project\project\bin\Debug\project.pdb
+E:\yaman bisen vb.net\project\project\bin\Debug\project.xml
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_login.resources
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\project.Resources.resources
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\project.exe
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\project.xml
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\project.pdb
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_signup.resources
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_change_password.resources
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_customer_detail.resources
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_item_details.resources
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\project.new_transaction.resources
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_update_price.resources
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_update_customer.resources
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_search_item.resources
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_update_item_quantity.resources
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_search_customer.resources
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_cbill_customer.resources
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_whole_cust_details.resources
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_whole_item_details.resources
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_bill_details.resources
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\project.MDI_Marketing.resources
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_delete_customer.resources
+E:\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_delete_item.resources
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.exe
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.xml
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.pdb
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\bin\Debug\project.exe
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\bin\Debug\project.pdb
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\bin\Debug\project.xml
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_bill_details.resources
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_cbill_customer.resources
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_change_password.resources
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_customer_detail.resources
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_delete_customer.resources
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_delete_item.resources
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_search_customer.resources
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_search_item.resources
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_update_customer.resources
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_item_details.resources
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_login.resources
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_update_item_quantity.resources
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_signup.resources
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_update_price.resources
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_whole_cust_details.resources
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_whole_item_details.resources
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.MDI_Marketing.resources
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.Resources.resources
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.new_transaction.resources
+I:\Yaman\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.vbproj.GenerateResource.Cache
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.exe
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.xml
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.pdb
+F:\VB.NET Project\yaman bisen vb.net\project\project\bin\Debug\project.exe
+F:\VB.NET Project\yaman bisen vb.net\project\project\bin\Debug\project.pdb
+F:\VB.NET Project\yaman bisen vb.net\project\project\bin\Debug\project.xml
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_bill_details.resources
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_cbill_customer.resources
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_change_password.resources
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_customer_detail.resources
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_delete_customer.resources
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_delete_item.resources
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_search_customer.resources
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_search_item.resources
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_update_customer.resources
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_item_details.resources
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_login.resources
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_update_item_quantity.resources
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_signup.resources
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_update_price.resources
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_whole_cust_details.resources
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_whole_item_details.resources
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.MDI_Marketing.resources
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.Resources.resources
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.new_transaction.resources
+F:\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.vbproj.GenerateResource.Cache
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\bin\Debug\project.exe
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\bin\Debug\project.pdb
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\bin\Debug\project.xml
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_bill_details.resources
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_cbill_customer.resources
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_change_password.resources
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_customer_detail.resources
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_delete_customer.resources
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_delete_item.resources
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_search_customer.resources
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_search_item.resources
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_update_customer.resources
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_item_details.resources
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_login.resources
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_update_item_quantity.resources
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_signup.resources
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_update_price.resources
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_whole_cust_details.resources
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.frm_whole_item_details.resources
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.MDI_Marketing.resources
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.Resources.resources
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.new_transaction.resources
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.vbproj.GenerateResource.Cache
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.exe
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.xml
+F:\Programms\VB.NET Project\yaman bisen vb.net\project\project\obj\x86\Debug\project.pdb
